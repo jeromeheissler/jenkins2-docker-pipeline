@@ -1,6 +1,10 @@
 # jenkins2-docker-pipeline
 
 ## How to use it
+
+ - To use the latest jenkins LTS: docker pull jeromeheissler/jenkins2-docker-pipeline:lts
+ - To use the latest weekly: docker pull jeromeheissler/jenkins2-docker-pipeline
+
 ### Start jenkins
 #### Example with docker cli
 ```
