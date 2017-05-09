@@ -1,4 +1,4 @@
-FROM jenkinsci/jenkins
+FROM jenkinsci/jenkins:latest
 
 # Install sudo and make jenkins sudoer to be able to call docker with sudo from inside jenkins container
 USER root
